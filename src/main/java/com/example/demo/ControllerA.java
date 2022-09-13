@@ -10,6 +10,7 @@ public class ControllerA {
 	@GetMapping("/get")
 	public String getItemGet() {
 		return "Hello";
+		
 	}
 
 }
